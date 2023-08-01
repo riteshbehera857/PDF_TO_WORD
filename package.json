@@ -9,6 +9,7 @@
   "dependencies": {
     "express": "^4.18.2",
     "groupdocs-conversion-cloud": "^23.7.0",
+    "groupdocs-editor-cloud": "^23.5.0",
     "morgan": "^1.10.0"
   },
   "devDependencies": {
